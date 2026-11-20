@@ -5,4 +5,4 @@ jobs:
   canary:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "base version"
+      - run: echo "::notice::fork code executed"
